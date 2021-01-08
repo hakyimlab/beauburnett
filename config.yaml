@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Hugo Prose"
+title: "Beau's Blog"
 theme: "hugo-prose"
 googleAnalytics: ""
 disqusShortname: ""
@@ -44,7 +44,7 @@ menu:
 params:
   homePosts: 6
   mainSections: ["post", "work"]
-  editLink: "https://github.com/yihui/hugo-prose/edit/master/exampleSite/content/"
+  editLink: "https://github.com/hakyimlab/beauburnett/edit/master/exampleSite/content/"
   authorDelimiter: " / "
   pageFeatures: [+sidenotes]
   description: >
