@@ -5,4 +5,4 @@ menu:
 title: Home
 ---
 
-This content will always appear at the top
+Welcome to my blog. I will share useful tips for college admissions and other things.   
